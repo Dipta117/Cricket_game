@@ -1,2 +1,2 @@
 # Cricket_game
-First C project was done out of interest.
+You  can play cricket in console and textbased
